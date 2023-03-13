@@ -1,2 +1,21 @@
 git init
-git add. (tracking all file)
+git add . (tracking all file)
+git status (info abt file)
+
+Changes not staged for commit: (after update)
+git commit -m "i hv update file"
+
+git diff
+
+
+git checkout -b sajan(branch)
+git add .
+git commit -m "i hv add new branch"
+
+
+for push
+git remote add origin https://github.com/sajankafle26/santa.git
+git push -u origin master
+
+git status
+git push
